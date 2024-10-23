@@ -1,0 +1,377 @@
+{
+  "heading": "Helping Verbs",
+  "topics": [
+    {
+      "heading": "Helping Verbs",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What's the helping verb in \"The children were laughing loudly\"?",
+          "options": [
+            {
+              "text": "the"
+            },
+            {
+              "text": "children"
+            },
+            {
+              "text": "were"
+            },
+            {
+              "text": "laughing"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Were\" is the helping verb. It helps \"laughing\" to describe what the children did in the past."
+        },
+        {
+          "questionNo": 2,
+          "question": "Identify the helping verb: \"I have read this book before.\"",
+          "options": [
+            {
+              "text": "I"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "read"
+            },
+            {
+              "text": "book"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Have\" is the helping verb. It works with \"read\" to show that the action happened in the past."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which is the helping verb in \"The cat was chasing a mouse\"?",
+          "options": [
+            {
+              "text": "the"
+            },
+            {
+              "text": "cat"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "chasing"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Was\" is the helping verb. It helps \"chasing\" to tell us what the cat did in the past."
+        },
+        {
+          "questionNo": 4,
+          "question": "Spot the helping verb: \"We are having fun.\"",
+          "options": [
+            {
+              "text": "we"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "having"
+            },
+            {
+              "text": "fun"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Are\" is the helping verb. It works with \"having\" to describe what we are doing now."
+        },
+        {
+          "questionNo": 5,
+          "question": "Choose the correct spelling:",
+          "options": [
+            {
+              "text": "Quick"
+            },
+            {
+              "text": "Qwick"
+            },
+            {
+              "text": "Queck"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The correct spelling is \"Q-U-I-C-K.\" It means doing something at speed or in a short time."
+        },
+        {
+          "questionNo": 6,
+          "question": "Look at the image and choose the correct word:<br> <img src='./comp.png' width='150px'/>",
+          "options": [
+            {
+              "text": "Smartphone"
+            },
+            {
+              "text": "Computer"
+            },
+            {
+              "text": "Television"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The picture is of a computer. It is an electronic machine that can store, find and arrange information."
+        },
+        {
+          "questionNo": 7,
+          "question": "What's the helping verb in \"He has finished his meal\"?",
+          "options": [
+            {
+              "text": "he"
+            },
+            {
+              "text": "has"
+            },
+            {
+              "text": "finished"
+            },
+            {
+              "text": "meal"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Has\" is the helping verb. It helps \"finished\" to show that the action is complete."
+        },
+        {
+          "questionNo": 8,
+          "question": "Find the helping verb: \"I am feeling happy.\"",
+          "options": [
+            {
+              "text": "am"
+            },
+            {
+              "text": "I"
+            },
+            {
+              "text": "feeling"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Am\" is the helping verb. It works with \"feeling\" to tell us about your current emotion."
+        },
+        {
+          "questionNo": 9,
+          "question": "Choose the correct pair: \"They were singing loudly\"?",
+          "options": [
+            {
+              "text": "they - helping verb"
+            },
+            {
+              "text": "were - helping verb"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Were\" is the helping verb. It helps \"singing\" to describe what they did in the past."
+        },
+        {
+          "questionNo": 10,
+          "question": "Identify the helping verb: \"The flowers are blooming.\"",
+          "options": [
+            {
+              "text": "the"
+            },
+            {
+              "text": "flowers"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "blooming"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Are\" is the helping verb. It works with \"blooming\" to tell us what the flowers are doing now."
+        },
+        {
+          "questionNo": 11,
+          "question": "What's the helping verb in \"She has won the race\"?",
+          "options": [
+            {
+              "text": "she"
+            },
+            {
+              "text": "race"
+            },
+            {
+              "text": "won"
+            },
+            {
+              "text": "has"
+            }
+          ],
+          "answer": 3,
+          "explanation": "\"Has\" is the helping verb. It helps \"won\" to show that the action is complete."
+        },
+        {
+          "questionNo": 12,
+          "question": "Spot the noun: \"I was dreaming about whales.\"",
+          "options": [
+            {
+              "text": "I"
+            },
+            {
+              "text": "was"
+            },
+            {
+              "text": "dreaming"
+            },
+            {
+              "text": "whales"
+            }
+          ],
+          "answer": 3,
+          "explanation": "\"Whale\" is a noun because it is an animal. A noun is a word that refers to a thing (book), a person (Noah), an animal (cat), or a place (Sydney)."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which is the helping verb in \"We have visited the zoo\"?",
+          "options": [
+            {
+              "text": "we"
+            },
+            {
+              "text": "have"
+            },
+            {
+              "text": "visited"
+            },
+            {
+              "text": "zoo"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Have\" is the helping verb. It helps \"visited\" to show that the action happened in the past time."
+        },
+        {
+          "questionNo": 14,
+          "question": "Find the helping verb: \"The dog is wagging its tail.\"",
+          "options": [
+            {
+              "text": "the"
+            },
+            {
+              "text": "dog"
+            },
+            {
+              "text": "is"
+            },
+            {
+              "text": "wagging"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Is\" is the helping verb. It works with \"wagging\" to describe what the dog is doing right now."
+        },
+        {
+          "questionNo": 15,
+          "question": "Choose the correct spelling:",
+          "options": [
+            {
+              "text": "Setence"
+            },
+            {
+              "text": "Santence"
+            },
+            {
+              "text": "Sentence"
+            }
+          ],
+          "answer": 2,
+          "explanation": "The correct spelling is \"S-E-N-T-E-N-C-E.\" A sentence is a group of words that makes complete sense."
+        },
+        {
+          "questionNo": 16,
+          "question": "In the sentence \"The fish are swimming in the pond,\" which word is the helping verb?",
+          "options": [
+            {
+              "text": "The"
+            },
+            {
+              "text": "fish"
+            },
+            {
+              "text": "are"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Are\" is the helping verb in this sentence. It works with \"swimming\" to tell us what the fish are doing right now in the pond."
+        },
+        {
+          "questionNo": 17,
+          "question": "What is the helping verb in \"The cake was baked by my mom\"?",
+          "options": [
+            {
+              "text": "was"
+            },
+            {
+              "text": "cake"
+            },
+            {
+              "text": "The"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Was\" is the helping verb here. It works with \"baked\" to show that this action happened in the past."
+        },
+        {
+          "questionNo": 18,
+          "question": "In \"The leaves were falling from the trees,\" which word is the helping verb?",
+          "options": [
+            {
+              "text": "The"
+            },
+            {
+              "text": "leaves"
+            },
+            {
+              "text": "were"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Were\" is the helping verb in this sentence. It helps \"falling\" to describe what the leaves did in the past time."
+        },
+        {
+          "questionNo": 19,
+          "question": "What is the helping verb in \"We are building a sandcastle\"?",
+          "options": [
+            {
+              "text": "We"
+            },
+            {
+              "text": "are"
+            },
+            {
+              "text": "building"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Are\" is the helping verb in this sentence. It works with \"building\" to tell us what we are doing right now."
+        },
+        {
+          "questionNo": 20,
+          "question": "In \"The students have finished their projects,\" what is the helping verb?",
+          "options": [
+            {
+              "text": "The"
+            },
+            {
+              "text": "students"
+            },
+            {
+              "text": "have"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Have\" is the helping verb in this sentence. It helps \"finished\" to show that the action is complete."
+        }
+      ]
+    }
+  ]
+}
